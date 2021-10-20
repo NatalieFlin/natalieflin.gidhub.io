@@ -1,14 +1,14 @@
 User-agent:Yandex
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: https://irkaneprobirka.github.io/sitemap.xml
+Sitemap: https://natalieflin.github.io/sitemap.xml
 
 User-agent:googlebot
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: https://irkaneprobirka.github.io/sitemap.xml
+Sitemap: https://natalieflin.github.iositemap.xml
 
 User-agent:*
 Disallow: /Admin
 Disallow: *?page=
-Sitemap: https://irkaneprobirka.github.io/sitemap.xml
+Sitemap: https://natalieflin.github.io/sitemap.xml
