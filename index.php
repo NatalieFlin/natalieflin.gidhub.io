@@ -15,7 +15,9 @@ if (!isset($_SESSION["theme"])){
     
     <link rel="stylesheet" href="<?php echo $_SESSION["theme"]?>
 <!-- 	<link rel="stylesheet" href="main.css">
- -->	</head>
+ -->	
+	<title>Магазин</title>				    
+	</head>
 	<body>
     <div class="theme-button" id="theme-button">Сменить тему</div>
 		<header>
