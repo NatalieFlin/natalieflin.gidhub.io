@@ -58,8 +58,7 @@ if (!isset($_SESSION["theme"])){
 		 </div>
 
       <section class="author-archive">
-  <div class="container">
-    <h1>Some of my <a href="https://tutsplus.com/authors/george-martsoukos" target="_blank">Tuts+ Tutorials</a></h1>
+  <div class="container"
     <input type="radio" id="All" name="categories" value="All" checked>
     <input type="radio" id="Sigvey" name="categories" value="Sigvey">
     <input type="radio" id="Samokat" name="categories" value="Samokat">
