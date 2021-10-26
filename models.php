@@ -51,7 +51,6 @@ if (!isset($_SESSION["theme"])){
       </ul>
 		<div class="wrapper">
 			<div class="content">
-				 <h1>Some of my <a href="https://tutsplus.com/authors/giroskuter/elektrosamokat/sigvey" target="_blank">товары смарт техники гироскутеры, электросамокаты, сигвей</a></h1>
 				<div class="infoBlocks"  id ="el">
 				<img src="img\elsam.png" class="content img">
         <div>
