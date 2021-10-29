@@ -91,7 +91,7 @@ if (!isset($_SESSION["theme"])){
         <article>
           <figure>
             <a href="" target="_blank">
-              <img src="img\tov7.jpg" class="products">
+              <img src="img\tov7.jpg" class="products" alt = "электросамокат цена">
             </a>
            <figcaption>
 
@@ -118,7 +118,7 @@ if (!isset($_SESSION["theme"])){
               <ol class="post-categories">
                <h3 class="lol4">KUGOO S2 (Jilong)</h3>
 
-        <p class="lolp">Электросамокат</p>
+        <p class="lolp">Электросамокат цена</p>
           <h2 class="lolh2">14900 руб.</h2>
               </ol>
             </figcaption>
