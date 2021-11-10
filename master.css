@@ -247,14 +247,6 @@ display: flex;
 	margin-left: 200px;
 }
 
-.backButton{
-  position: fixed;
-  right: 50px;
-  bottom: 50px;
-  opacity: 0.5;
-
-}
-
 .backButton:hover {
 opacity: 1;
 }
