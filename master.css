@@ -584,7 +584,7 @@ button:hover {
 
 @media all and ( max-width: 1024px ){
 header{
-/* 	background: #1f2129; */
+ background: #1f2129; 
   width: 200%;
   padding: 0.5vw 0vw 0.5vw 0.3vw; /* рамки шапки */
   white-space: nowrap;  /* пробелы не переносятся при уменьшении окна браузера */
