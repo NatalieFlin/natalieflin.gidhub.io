@@ -584,37 +584,50 @@ button:hover {
 
 @media all and ( max-width: 1024px ){
 
-  header{
-    width: auto;
-    white-space: normal;
-  }
+  @media (max-width: 1024x) {
 
-  .logo{
-    justify-content: space-between
-  }
+header{
+/* 	background: #1f2129; */
+  width: 2000px;
+  padding: 0.5vw 0vw 0.5vw 0.3vw; /* рамки шапки */
+  white-space: nowrap;  /* пробелы не переносятся при уменьшении окна браузера */
+    z-index: 2; /* выше всего на сайте */
+	/*height: 150px;
+	white-space: nowrap;*/
+}
+.logo{
+	display: flex;
+	align-items:center;
+}
+.logo2-img{
+	width: 600px;
+	height: 100px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
 
-  .lol{
-    margin-left: 0;
-  }
+.lol {
+	display: flex;
+	margin-left: +700px;
+}
 
-  .logo2-img{
-    width: 400;
-    height: 70px;
-  }
+.phone{
+	color: white;
+	font-size:25;
+	font-family: Century Gothic, sans-serif;
+	margin-right: 30px;
+}
+.pbutton{
+	max-height:50;
+}
+.call1{
+	color: white;
+	font-size: 25;
+	font-family: Century Gothic, sans-serif;
+	margin-left: 30px;
+}
+}
 
-  .phone{
-    font-size: 15px;
-  }
-
-  .call1{
-    font-size: 15px;
-    margin-left: 10px;
-    margin-right: 30px;
-  }
-
-  .pbutton{
-    max-height: 20px;
-  }
 
   .consultants{
     flex-direction: column;
