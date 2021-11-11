@@ -1,8 +1,8 @@
 
 body{
 	
-/*   width: 100%; /* адаптация */
- /* height: 100%;  адаптация */
+ width: 100%; /* адаптация */
+height: 100%;  /* адаптация */
     overflow-x: hidden;
     background:linear-gradient(#FFFFFF, #9400D3);
 }
