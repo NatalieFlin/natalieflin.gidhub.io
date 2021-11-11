@@ -583,6 +583,14 @@ button:hover {
 
 
 @media all and ( max-width: 1024px ){
+	
+	body{
+	
+ width: 200%; /* адаптация */
+    overflow-x: hidden;
+    background:linear-gradient(#FFFFFF, #9400D3);
+}
+	
 header{
  background: #1f2129; 
   width: 200%;
