@@ -623,14 +623,13 @@ header{
 	font-family: Century Gothic, sans-serif;
 	margin-left: 30px;
 }
-}
+
 
 
   .consultants{
     flex-direction: column;
     margin: 0 auto;
   }
-
 }
 .footer{
 	background: #222;
