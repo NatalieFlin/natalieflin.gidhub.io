@@ -583,9 +583,6 @@ button:hover {
 
 
 @media all and ( max-width: 1024px ){
-
-  @media (max-width: 1024x) {
-
 header{
 /* 	background: #1f2129; */
   width: 200%;
