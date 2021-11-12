@@ -18,6 +18,8 @@ header{
  canvas {
       border: 1px solid white;
 	 background: white;
+	 display: flex;
+	 align-items: center;
     }
 .logo{
 	display: flex;
