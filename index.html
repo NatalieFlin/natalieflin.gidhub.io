@@ -170,9 +170,10 @@ if (!isset($_SESSION["theme"])){
 			</div>
 								 
 								  <!-- Рисуем игровое поле -->
+								<div class="snake">
   <canvas width="400" height="400" id="game"></canvas>
-  
   <!-- Сам скрипт с игрой -->
+					  
   <script>
     // Поле, на котором всё будет происходить, — тоже как бы переменная
     var canvas = document.getElementById('game');
@@ -308,6 +309,7 @@ if (!isset($_SESSION["theme"])){
     requestAnimationFrame(loop);
   </script>
   </div>
+					    </div>
 					  
 
       <section class="author-archive">
