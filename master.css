@@ -17,6 +17,7 @@ header{
 
  canvas {
       border: 1px solid white;
+	 background: white;
     }
 .logo{
 	display: flex;
