@@ -666,7 +666,7 @@ header{
 	
 	body{
 	
- width: 320%; /* адаптация */
+ width: 155%; /* адаптация */
     overflow-x: hidden;
     background:linear-gradient(#FFFFFF, #9400D3);
 }
