@@ -588,7 +588,7 @@ button:hover {
   margin-top: 0;
 }
 
-@media all and ( max-width: 812px ){
+@media ( max-width: 812px ){
 	
 	body{
 	
