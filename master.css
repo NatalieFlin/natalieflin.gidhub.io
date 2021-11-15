@@ -588,18 +588,11 @@ button:hover {
   margin-top: 0;
 }
 
-
-
-
-
-
-
-
-@media all and ( max-width: 1024px ){
+@media all and ( max-width: 812px ){
 	
 	body{
 	
- width: 320%; /* адаптация */
+ width: 155%; /* адаптация */
     overflow-x: hidden;
     background:linear-gradient(#FFFFFF, #9400D3);
 }
@@ -662,11 +655,16 @@ header{
 	height: 80px;
 }
 
-@media all and ( max-width: 812px ){
+
+
+
+
+
+@media all and ( max-width: 1024px ){
 	
 	body{
 	
- width: 155%; /* адаптация */
+ width: 320%; /* адаптация */
     overflow-x: hidden;
     background:linear-gradient(#FFFFFF, #9400D3);
 }
