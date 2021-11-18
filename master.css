@@ -588,8 +588,8 @@ button:hover {
 }
 
 .video{
-	max-width: 560px;
-	max-height: 315px;
+	width= 560px;
+	height= 315px;
 }
 
 @media ( max-width: 812px ){
